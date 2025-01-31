@@ -6,11 +6,11 @@ export interface Project {
   demoLink?: string;
 }
 
-export type ProjectName = "mtab" | "tomb-of-the-mask-clone" | "create-neutrino-app";
+export type ProjectName = "My-Website";
 
 //Not Sure What This Error Is But It Works With No Fix So Don't Touch It
 export const projects: Record<ProjectName, Project> = {
-  mtab: {
+  "My-Website": {
     title: "My-Website",
     description: "This is the website you are currently on!",
     technologies: ["html", "css", "typescript"],
