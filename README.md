@@ -1,4 +1,4 @@
-<h1 align="center" id="title">aaron.dev</h1>
+<h1 align="center" id="title">aaron.dev 🌴 </h1>
 
 <p id="description">The source for my website</p>
 
