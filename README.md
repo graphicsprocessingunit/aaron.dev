@@ -2,7 +2,9 @@
 
 <p id="description">The source for my website</p>
 
-<h2>🚀 Demo</h2>
+<h2> Credits </h2>
+
+I forked this project from maxhu.dev and made some minor improvements and fixes
 
   
 <h2>💻 Built with</h2>
